@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DatabaseTask.Core.Domain
 {
-    internal class Products
+    public class Products
     {
         [Key]
 

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace DatabaseTask.Core.Domain
 {
 
-    internal class Pudi_Padi
+    public class Pudi_Padi
     {
         [Key]
 

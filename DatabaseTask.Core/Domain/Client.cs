@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DatabaseTask.Core.Domain
 {
-    internal class Client
+    public class Client
     {
         [Key]
         public Guid ClientId { get; set; }
